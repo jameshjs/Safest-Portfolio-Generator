@@ -40,7 +40,7 @@ The goal is to construct an AI-powered system for stock portfolio optimization. 
     * Automated rebalancing based on new predictions and market movements.
     * Transaction cost minimization.
 * Technologies: REST API integration and WebSocket for live updates.
-##### 2.7. Evaluation and Monitoring
+##### 7. Evaluation and Monitoring
 * Metrics:
     * Sharpe Ratio and Sortino Ratio.
     * Portfolio returns and drawdown statistics.
